@@ -1,5 +1,5 @@
 #!/bin/bash
-#sleung@mapr.com
+
 
 DATE=$(date '+%Y-%m-%d-%H-%M-%S')
 logfile=/opt/mapr/logs/managedservices/$(basename $0).log.${DATE}
